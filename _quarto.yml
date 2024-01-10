@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Nikolaos Pechlivanis"
+  search: false
+  navbar:
+    # background: "white"
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - publications.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/npechl
+        aria-label: Twitter
+      - icon: github
+        href: https://github.com/npechl
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/npechl/
+        aria-label: LinkedIn
+  page-footer:
+    right: |
+      © Copyright 2024 Nikos Pechlivanis. This page is built with [**Quarto**](https://quarto.org/) and is licensed under [**CC BY-SA 4.0**](http://creativecommons.org/licenses/by-sa/4.0/).
+
+format:
+  html:
+    css: styles.css
+    toc: true
+    minimal: false
+    smooth-scroll: true
+    theme: 
+        light: [default, light-theme.scss]
+        dark: [default, dark-theme.scss]
+        
+editor: visual
+
