@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nikos Pechlivanis",
+    "section": "",
+    "text": "Bioinformatics @INAB/CERTH\nHi! Welcome to my GitHub page. My name is Nikos and I’m currently working my Ph.D. in Bioinformatics at the Institute of Applied Biosciences, situated within the Centre for Research & Technology, Hellas. I hold a BSc in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.\nI am deeply engaged in research that delves into the intricate relationships between soil microbiomes and global geoclimatic trends. My work aims to unravel the complexities of these interactions, shedding light on the fascinating dynamics within the Earth’s ecosystems.\nThis page is built with Quarto and is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Feel free to explore it!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Nikos, and I am a computational scientist currently pursuing my Ph.D. in Bioinformatics at the Institute of Applied Biosciences, located within the Centre for Research & Technology, Hellas, under the mentorship of Dr. Fotis Psomopoulos. I earned my BSc in Electrical and Computer Engineering from the Aristotle University of Thessaloniki. Skilled in the R programming language, I utilize its capabilities for in-depth data analysis and statistical modeling.\nI have a pronounced interest in data visualization, recognizing its pivotal role in effectively communicating research findings. Crafting compelling visual representations not only deepens the understanding of intricate biological phenomena but also facilitates knowledge dissemination within the scientific community and beyond. You’re welcome to explore my #TidyTuesday contributions on my Twitter account for more insights into my work."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This page is currently in development; however, you can explore publications to which I have contributed on my Google Scholar page."
+  }
+]
