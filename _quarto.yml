@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Nikolaos Pechlivanis"
+  title: "Nikos Pechlivanis"
   search: false
   navbar:
     # background: "white"
@@ -25,17 +25,19 @@ website:
         aria-label: LinkedIn
   page-footer:
     right: |
-      © Copyright 2024 Nikos Pechlivanis. This page is built with [**Quarto**](https://quarto.org/) and is licensed under [**CC BY-SA 4.0**](http://creativecommons.org/licenses/by-sa/4.0/).
+      © Copyright 2024 Nikos Pechlivanis.
+    left: |
+      This page is built with [**Quarto**](https://quarto.org/) and is licensed under [**CC BY-SA 4.0**](http://creativecommons.org/licenses/by-sa/4.0/).
 
 format:
   html:
-    css: styles.css
-    toc: true
+    css: scss/styles.css
+    toc: false
     minimal: false
     smooth-scroll: true
     theme: 
-        light: [default, light-theme.scss]
-        dark: [default, dark-theme.scss]
+        light: [default, scss/light-theme.scss]
+        dark: [default, scss/dark-theme.scss]
         
 editor: visual
 

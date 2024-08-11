@@ -1,8 +1,10 @@
 ---
-title: "**Nikos** Pechlivanis"
+title: "Home page"
 ---
 
-Bioinformatics [@INAB/CERTH](<https://www.inab.certh.gr/>)
+# [Nikos]{style="font-weight:900;"} [Pechlivanis]{style="font-weight:300;"}
+
+Bioinformatics [\@INAB/CERTH](https://www.inab.certh.gr/)
 
 Hi! Welcome to my GitHub page. My name is Nikos and I'm currently working my Ph.D. in Bioinformatics at the [Institute of Applied Biosciences](https://www.inab.certh.gr/), situated within the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx). I hold a BSc in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.
 
