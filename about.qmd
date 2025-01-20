@@ -13,7 +13,7 @@ about:
         - icon: linkedin
           text: LinkedIn 
           href: https://www.linkedin.com/in/npechl/
-        - icon: arrow-right-short 
+        - icon: globe2 
           text: Bluesky 
           href: https://bsky.app/profile/npechl.bsky.social
 ---
