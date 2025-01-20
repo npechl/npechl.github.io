@@ -4,15 +4,18 @@ about:
     template: trestles 
     image: images/nikopech_trim.png 
     links: 
-        - icon: twitter 
-          text: twitter 
-          href: https://twitter.com/npechl
+        # - icon: twitter 
+        #   text: twitter 
+        #   href: https://twitter.com/npechl
         - icon: github 
           text: GitHub 
           href: https://github.com/npechl
         - icon: linkedin
           text: LinkedIn 
           href: https://www.linkedin.com/in/npechl/
+        - icon: arrow-right-short 
+          text: Bluesky 
+          href: https://bsky.app/profile/npechl.bsky.social
 ---
 
 My name is Nikos, and I am a computational scientist currently pursuing a Ph.D. in Bioinformatics at the [Institute of Applied Biosciences](https://inab.certh.gr/), part of the [Centre for Research & Technology, Hellas](https://www.certh.gr/root.en.aspx), under the guidance of [Dr. Fotis Psomopoulos](https://fpsom.github.io/). I hold a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.
