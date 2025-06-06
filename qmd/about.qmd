@@ -2,7 +2,7 @@
 title: "**About**" 
 about: 
     template: trestles 
-    image: images/nikopech_trim.png 
+    image: ../images/nikopech_trim.png 
     links: 
         # - icon: twitter 
         #   text: twitter 

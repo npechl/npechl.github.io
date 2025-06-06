@@ -12,7 +12,7 @@ My research focuses on exploring the intricate relationships between soil microb
 
 This page is built with **Quarto** and is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Feel free to explore it!
 
-![](images/hissing.jpg){fig-align="center" width="50%" fig-cap-location="top"}
+![](../images/hissing.jpg){fig-cap-location="top" fig-align="center" width="50%"}
 
 ::: {style="text-align: center; font-size: .75rem"}
 How bioinformaticians react when they see sequences.<br>Just kidding! It’s actually Tilda Swinton and Tom Hiddleston<br>from [*Only Lovers Left Alive*](https://www.imdb.com/title/tt1714915/).
