@@ -1,23 +1,23 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "qmd/publications.html",
+    "href": "qmd/publications.html",
     "title": "Publications",
     "section": "",
     "text": "For a full list of my publications, feel free to explore my Google Scholar page.\nBelow are selected publications to which I have contributed:\n\nPechlivanis, N., Karakatsoulis, G., Kyritsis, K. et al. Microbial co-occurrence network demonstrates spatial and climatic trends for global soil diversity. Sci Data 11, 672 (2024). 10.1038/s41597-024-03528-1.\nVlachonikola E, Pechlivanis N, Karakatsoulis G, Sofou E, Gkoliou G, Jeromin S, Stavroyianni N, Ranghetti P, Scarfo L, Österholm C, Mansouri L, Notopoulou S, Siorenta A, Anagnostopoulos A, Ghia P, Haferlach C, Rosenquist R, Psomopoulos F, Kouvatsi A, Baliakas P, Stamatopoulos K and Chatzidimitriou A (2023) T cell receptor gene repertoire profiles in subgroups of patients with chronic lymphocytic leukemia bearing distinct genomic aberrations. Front. Oncol. 13:1097942. doi: 10.3389/fonc.2023.1097942."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "qmd/about.html",
+    "href": "qmd/about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Nikos, and I am a computational scientist currently pursuing a Ph.D. in Bioinformatics at the Institute of Applied Biosciences, part of the Centre for Research & Technology, Hellas, under the guidance of Dr. Fotis Psomopoulos. I hold a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.\nI am highly proficient in data analysis within the R project, utilizing its extensive libraries and tools for in-depth statistical modeling and data manipulation. My expertise also extends to data visualization, where I create compelling and informative visual representations that bring complex biological data to life. This combination allows me to effectively communicate research insights, making intricate scientific concepts accessible to both the scientific community and the public. You can explore my #TidyTuesday contributions on Twitter account for examples of my work."
+    "text": "My name is Nikos, and I am a bioinformatics scientist working at the Institute of Applied Biosciences, part of the Centre for Research and Technology Hellas, . Previsouly I completed my Ph.D. in Bioinformatics under the guidance of Dr. Fotis Psomopoulos and I hold a diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.\nI am highly proficient in data analysis within the R project, utilizing its extensive libraries and tools for in-depth statistical modeling and data manipulation. My expertise extends to bioinformatics, where I apply R-based workflows to process, analyze, and visualize large-scale biological datasets, such as those generated from high-throughput sequencing experiments.\nMy expertise also extends to data visualization, where I create compelling and informative visual representations that bring complex biological data to life. This combination allows me to effectively communicate research insights, making intricate scientific concepts accessible to both the scientific community and the public. You can explore my #TidyTuesday contributions for examples of my work."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "qmd/index.html",
+    "href": "qmd/index.html",
     "title": "Home page",
     "section": "",
-    "text": "Nikos Pechlivanis\nBioinformatics @INAB/CERTH\nHi! Welcome to my GitHub page. My name is Nikos and I’m currently working my Ph.D. in Bioinformatics at the Institute of Applied Biosciences, part of the Centre for Research & Technology, Hellas. I hold a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.\nMy research focuses on exploring the intricate relationships between soil microbiomes and global geoclimatic patterns. Through this work, I aim to uncover the complex dynamics that shape Earth’s ecosystems.\nThis page is built with Quarto and is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Feel free to explore it!\n\n\n\n\n\n\nHow bioinformaticians react when they see sequences.Just kidding! It’s actually Tilda Swinton and Tom Hiddlestonfrom Only Lovers Left Alive."
+    "text": "Nikos Pechlivanis\nBioinformatics @INAB/CERTH\nHi! Welcome to my GitHub page. My name is Nikos and I’m currently working as a Bioinformatics scientist at the Institute of Applied Biosciences, part of the Centre for Research and Technology Hellas. I hold a Ph.D. in Bioinformatics and a diploma in Electrical and Computer Engineering, both from the Aristotle University of Thessaloniki.\nMy research focuses on developing open-source computational software (tools/workflows) for analysing genetics data. I am also working on making interactive web apps to help researchers interpret biodiversity datasets.\nThis page is built with Quarto and is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Feel free to explore it!\n\n\n\n\n\n\nIs that… a FASTA file?Tilda Swinton and Tom Hiddlestonfrom Only Lovers Left Alive."
   }
 ]

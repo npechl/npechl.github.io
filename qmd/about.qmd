@@ -1,0 +1,25 @@
+---
+title: "**About**" 
+about: 
+    template: trestles 
+    image: ../images/nikopech_trim.png 
+    links: 
+        # - icon: twitter 
+        #   text: twitter 
+        #   href: https://twitter.com/npechl
+        - icon: github 
+          text: GitHub 
+          href: https://github.com/npechl
+        - icon: linkedin
+          text: LinkedIn 
+          href: https://www.linkedin.com/in/npechl/
+        - icon: globe2 
+          text: Bluesky 
+          href: https://bsky.app/profile/npechl.bsky.social
+---
+
+My name is Nikos, and I am a bioinformatics scientist working at the [Institute of Applied Biosciences](https://inab.certh.gr/), part of the [Centre for Research and Technology Hellas](https://www.certh.gr/root.en.aspx), . Previsouly I completed my Ph.D. in Bioinformatics under the guidance of [Dr. Fotis Psomopoulos](https://fpsom.github.io/) and I hold a diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.
+
+I am highly proficient in data analysis within the R project, utilizing its extensive libraries and tools for in-depth statistical modeling and data manipulation. My expertise extends to bioinformatics, where I apply R-based workflows to process, analyze, and visualize large-scale biological datasets, such as those generated from high-throughput sequencing experiments.
+
+My expertise also extends to data visualization, where I create compelling and informative visual representations that bring complex biological data to life. This combination allows me to effectively communicate research insights, making intricate scientific concepts accessible to both the scientific community and the public. You can explore my [*#TidyTuesday*](https://github.com/npechl/TidyTuesday) contributions for examples of my work.
