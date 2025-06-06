@@ -9,8 +9,7 @@ website:
     # background: "white"
     title: false
     left:
-      - href: qmd/index.qmd
-        text: Home
+      - index.qmd
       - qmd/about.qmd
       - qmd/publications.qmd
     right:
