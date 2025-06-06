@@ -1,5 +1,5 @@
 ---
-title: "Home page"
+title: "**Home**"
 ---
 
 # [Nikos]{style="font-weight:900;"} [Pechlivanis]{style="font-weight:300;"}
@@ -12,7 +12,7 @@ My research focuses on developing open-source computational software (tools/work
 
 This page is built with **Quarto** and is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Feel free to explore it!
 
-![](../images/hissing.jpg){fig-cap-location="top" fig-align="center" width="50%"}
+![](images/hissing.jpg){fig-cap-location="top" fig-align="center" width="50%"}
 
 ::: {style="text-align: center; font-size: .75rem"}
 Is that... a FASTA file?<br>Tilda Swinton and Tom Hiddleston<br>from [*Only Lovers Left Alive*](https://www.imdb.com/title/tt1714915/).
