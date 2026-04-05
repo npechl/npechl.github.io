@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Nikos Pechlivanis\nARISE2 Fellow | Software Engineer | Bioinformatics @ EMBL-EBI\n\nHi! Welcome to my GitHub page. I am a software engineer currently serving as an ARISE2 Postodoctoral Fellow within the Protein Data Bank in Europe (PDBe) team at EMBL’s European Bioinformatics Institute (EMBL-EBI).\nMy work focuses on building seamless infrastructure between complex structural biology data and Artificial Intelligence. I am currently working on a project aiming to develop a platform designed to transform natural language queries into high-quality, benchmarked datasets for the scientific community."
+    "text": "Nikos Pechlivanis\nARISE2 Fellow · Software Engineer · Bioinformatics @ EMBL-EBI\n\nHi! Welcome to my GitHub page. I am a software engineer currently serving as an ARISE2 Postodoctoral Fellow within the Protein Data Bank in Europe (PDBe) team at EMBL’s European Bioinformatics Institute (EMBL-EBI).\nMy work focuses on building seamless infrastructure between complex structural biology data and Artificial Intelligence. I am currently working on a project aiming to develop a platform designed to transform natural language queries into high-quality, benchmarked datasets for the scientific community."
   },
   {
     "objectID": "qmd/about.html",
