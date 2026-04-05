@@ -4,16 +4,15 @@ title: "**Home**"
 
 # [Nikos]{style="font-weight:900;"} [Pechlivanis]{style="font-weight:300;"}
 
-Bioinformatics [\@INAB/CERTH](https://www.inab.certh.gr/)
+ARISE2 Fellow | Software Engineer | Bioinformatics [@]{style="font-weight:300;"} [EMBL-EBI](https://www.ebi.ac.uk/)
 
-Hi! Welcome to my GitHub page. My name is Nikos and I'm currently working as a Bioinformatics scientist at the [Institute of Applied Biosciences](https://www.inab.certh.gr/), part of the [Centre for Research and Technology Hellas](https://www.certh.gr/root.en.aspx). I hold a Ph.D. in Bioinformatics and a diploma in Electrical and Computer Engineering, both from the Aristotle University of Thessaloniki.
+::: {style="font-weight:300;text-align:justify"}
+Hi! Welcome to my GitHub page. I am a software engineer currently serving as an [ARISE2](https://www.embl.org/training/arise2/) Postodoctoral Fellow within the [Protein Data Bank in Europe (PDBe)](https://www.ebi.ac.uk/pdbe/) team at EMBL's [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/).
 
-My research focuses on developing open-source computational software (tools/workflows) for analysing genetics data. I am also working on making interactive web apps to help researchers interpret biodiversity datasets.
-
-This page is built with **Quarto** and is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Feel free to explore it!
-
-![](images/hissing.jpg){fig-cap-location="top" fig-align="center" width="50%"}
-
-::: {style="text-align: center; font-size: .75rem"}
-Is that... a FASTA file?<br>Tilda Swinton and Tom Hiddleston<br>from [*Only Lovers Left Alive*](https://www.imdb.com/title/tt1714915/).
+My work focuses on building seamless infrastructure between complex structural biology data and Artificial Intelligence. I am currently working on a project aiming to develop a platform designed to transform natural language queries into high-quality, benchmarked datasets for the scientific community.
 :::
+<!-- ![](images/hissing.jpg){fig-cap-location="top" fig-align="center" width="50%"} -->
+
+<!-- ::: {style="text-align: center; font-size: .75rem"}
+Is that... a FASTA file?<br>Tilda Swinton and Tom Hiddleston<br>from [*Only Lovers Left Alive*](https://www.imdb.com/title/tt1714915/).
+::: -->
