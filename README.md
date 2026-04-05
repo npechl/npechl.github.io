@@ -4,4 +4,6 @@
 
 ## Description
 
-This repository contains the code for my personal GitHub page. You can explore the page live at https://npechl.github.io/. It is crafted using [Quarto](https://quarto.org/) and is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Feel free to navigate and explore the content!
+This repository contains the code for my personal GitHub page. You can explore the page live at https://npechl.github.io/. It is crafted using [Quarto](https://quarto.org/) and is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+
+Feel free to navigate and explore the content!
