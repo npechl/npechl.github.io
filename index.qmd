@@ -4,7 +4,7 @@ title: "**Home**"
 
 # [Nikos]{style="font-weight:900;"} [Pechlivanis]{style="font-weight:300;"}
 
-ARISE2 Fellow | Software Engineer | Bioinformatics [@]{style="font-weight:300;"} [EMBL-EBI](https://www.ebi.ac.uk/)
+ARISE2 Fellow · Software Engineer · Bioinformatics [@]{style="font-weight:300;"} [EMBL-EBI](https://www.ebi.ac.uk/)
 
 ::: {style="font-weight:300;text-align:justify"}
 Hi! Welcome to my GitHub page. I am a software engineer currently serving as an [ARISE2](https://www.embl.org/training/arise2/) Postodoctoral Fellow within the [Protein Data Bank in Europe (PDBe)](https://www.ebi.ac.uk/pdbe/) team at EMBL's [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/).
