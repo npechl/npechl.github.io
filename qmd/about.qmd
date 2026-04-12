@@ -13,6 +13,8 @@ about:
         - icon: linkedin
           text: LinkedIn 
           href: https://www.linkedin.com/in/npechl/
+        - text: ORCID
+          href: https://orcid.org/0000-0003-2502-612X
         # - icon: globe2 
         #   text: Bluesky 
         #   href: https://bsky.app/profile/npechl.bsky.social
