@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "qmd/publications.html",
-    "href": "qmd/publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "For a full list of my publications, feel free to explore my Google Scholar page.\nBelow are selected publications to which I have contributed:\n\nPechlivanis, N., Karakatsoulis, G., Kyritsis, K. et al. Microbial co-occurrence network demonstrates spatial and climatic trends for global soil diversity. Sci Data 11, 672 (2024). doi: 10.1038/s41597-024-03528-1.\nVlachonikola E., Pechlivanis N., Karakatsoulis G. et al. T cell receptor gene repertoire profiles in subgroups of patients with chronic lymphocytic leukemia bearing distinct genomic aberrations. Front. Oncol. 13:1097942 (2023). doi: 10.3389/fonc.2023.1097942."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -19,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "My name is Nikos, and I am currently an ARISE2 Postdoctoral Fellow at the European Bioinformatics Institute (EMBL-EBI), located at the Wellcome Genome Campus in Cambridge. As a member of the Protein Data Bank in Europe (PDBe) team, my work focuses on democratizing access to complex biological data. I am developing a platform that leverages artificial intelligence to generate AI-ready, FAIR-compliant datasets. My goal is to transform how life scientists interact with complex biological data, shifting from manual database queries to intelligent, automated data curation\nBefore joining EMBL-EBI, I worked as a bioinformatics scientist at the Institute of Applied Biosciences, part of the Centre for Research and Technology Hellas. I completed my Ph.D. in Bioinformatics under the supervision of Dr. Fotis Psomopoulos and hold a diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.\nAlongside my research, I have developed strong expertise in data visualization, creating clear and engaging representations that bring complex biological data to life. This allows me to communicate scientific insights effectively, making intricate concepts accessible to both specialist audiences and the broader public. Examples of my work are available through my #TidyTuesday contributions."
+  },
+  {
+    "objectID": "qmd/publications.html",
+    "href": "qmd/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "For a full list of my publications, feel free to explore my Google Scholar page.\nBelow are selected publications to which I have contributed:\n\nPechlivanis, N., Karakatsoulis, G., Kyritsis, K. et al. Microbial co-occurrence network demonstrates spatial and climatic trends for global soil diversity. Sci Data 11, 672 (2024). doi: 10.1038/s41597-024-03528-1.\nVlachonikola E., Pechlivanis N., Karakatsoulis G. et al. T cell receptor gene repertoire profiles in subgroups of patients with chronic lymphocytic leukemia bearing distinct genomic aberrations. Front. Oncol. 13:1097942 (2023). doi: 10.3389/fonc.2023.1097942."
   }
 ]
