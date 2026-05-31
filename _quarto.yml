@@ -21,7 +21,7 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/npechl/
         aria-label: LinkedIn
-      - text: ORCID
+      - text: "{{< ai orcid >}}"
         href: https://orcid.org/0000-0003-2502-612X
         aria-label: ORCID 
   page-footer:
