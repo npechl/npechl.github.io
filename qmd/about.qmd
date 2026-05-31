@@ -10,8 +10,11 @@ about:
         - icon: email 
           text: "{{< fa envelope >}} Email" 
           href: mailto:npechlv@gmail.com
-        - icon: github 
-          text: GitHub 
+        # - icon: file-earmark-pdf
+        #   text: CV
+        #   href: cv.pdf
+        - icon: github
+          text: GitHub
           href: https://github.com/npechl
         - icon: linkedin
           text: LinkedIn 
