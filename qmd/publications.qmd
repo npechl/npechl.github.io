@@ -3,7 +3,7 @@ title: "**Publications**"
 ---
 
 ::: {style="font-weight:300; text-align:justify; margin-bottom: 1.5em;"}
-For a full list of my publications, feel free to explore my [**Google Scholar page**](https://scholar.google.com/citations?user=kUXXu4IAAAAJ&hl=en&oi=ao).
+For a full list of my publications, feel free to explore my [**Google Scholar profile**](https://scholar.google.com/citations?user=kUXXu4IAAAAJ&hl=en&oi=ao). Below are some of my selected publications.
 :::
 
 ::: pub-card
@@ -19,5 +19,13 @@ Vlachonikola E., **Pechlivanis N.**, Karakatsoulis G. et al. *T cell receptor ge
 
 ::: pub-meta
 Frontiers in Oncology · 2023 · doi: [10.3389/fonc.2023.1097942](https://doi.org/10.3389/fonc.2023.1097942)
+:::
+:::
+
+::: pub-card
+**Pechlivanis, N.**, Tsagiopoulou, M., Maniou, M.C. et al. *Detecting SARS-CoV-2 lineages and mutational load in municipal wastewater and a use-case in the metropolitan area of Thessaloniki, Greece.* 
+
+::: pub-meta
+Scientific Reports · 2022 · doi: [10.1038/s41598-022-06625-6](https://doi.org/10.1038/s41598-022-06625-6)
 :::
 :::

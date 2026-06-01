@@ -48,7 +48,7 @@
 }
 
 .quarto-light .about-image {
-    border: 3px solid #991f7d !important;
+    border: 3px solid white !important;
     box-shadow: 0 0 0 5px rgba(153, 31, 125, 0.10);
 }
 
@@ -106,7 +106,7 @@ main {
 
 .quarto-light .skill-badge {
     background-color: rgba(153, 31, 125, 0.08);
-    color: #991f7d;
+    color: #4f46e5;
     border: 1px solid rgba(153, 31, 125, 0.25);
 }
 

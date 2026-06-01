@@ -10,9 +10,6 @@ about:
         - icon: email 
           text: "{{< fa envelope >}} Email" 
           href: mailto:npechlv@gmail.com
-        # - icon: file-earmark-pdf
-        #   text: CV
-        #   href: cv.pdf
         - icon: github
           text: GitHub
           href: https://github.com/npechl
@@ -22,6 +19,9 @@ about:
         - icon: orcid
           text: "{{< ai orcid >}} ORCID"
           href: https://orcid.org/0000-0003-2502-612X
+        - icon: file-earmark-pdf
+          text: CV
+          href: /files/Nikos_Pechlivanis_CV.pdf
         # - icon: globe2 
         #   text: Bluesky 
         #   href: https://bsky.app/profile/npechl.bsky.social
