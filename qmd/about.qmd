@@ -33,4 +33,6 @@ My name is Nikos, and I am currently an [ARISE2](https://www.embl.org/training/a
 Before joining EMBL-EBI, I worked as a bioinformatics scientist at the [Institute of Applied Biosciences](https://www.inab.certh.gr/), part of the Centre for Research and Technology Hellas. I completed my Ph.D. in Bioinformatics under the supervision of [Dr. Fotis Psomopoulos](https://fpsom.github.io/about/) and hold a diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.
 
 Alongside my research, I have developed strong expertise in data visualization, creating clear and engaging representations that bring complex biological data to life. This allows me to communicate scientific insights effectively, making intricate concepts accessible to both specialist audiences and the broader public. Examples of my work are available through my [*#TidyTuesday*](https://github.com/npechl/TidyTuesday) contributions.
+
+You can download my full CV [here](../files/Nikos_Pechlivanis_CV.pdf).
 :::
