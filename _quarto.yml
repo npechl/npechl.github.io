@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - files/
 
 website:
   title: "Nikos Pechlivanis"
@@ -8,9 +10,11 @@ website:
     # background: "white"
     title: false
     left:
-      - index.qmd
+      - text: "**Home**"
+        href: index.qmd
       - qmd/about.qmd
       - qmd/publications.qmd
+      - qmd/contact.qmd
     right:
       # - icon: twitter
       #   href: https://twitter.com/npechl

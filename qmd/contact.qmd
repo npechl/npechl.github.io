@@ -1,0 +1,33 @@
+---
+title: "**Contact**"
+---
+
+::: {style="font-weight:300;text-align:justify"}
+I am always happy to hear from collaborators, researchers, or anyone interested in my work. Feel free to reach out through any of the channels below.
+:::
+
+<br>
+
+::: {style="display:grid;grid-template-columns:auto 1fr;gap:0.6rem 1.5rem;align-items:baseline;font-weight:300;"}
+
+{{< fa envelope >}} &nbsp; **Email**
+
+[npechlv@gmail.com](mailto:npechlv@gmail.com)
+
+{{< fa location-dot >}} &nbsp; **Location**
+
+European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, UK
+
+{{< fa brands github >}} &nbsp; **GitHub**
+
+[github.com/npechl](https://github.com/npechl)
+
+{{< fa brands linkedin >}} &nbsp; **LinkedIn**
+
+[linkedin.com/in/npechl](https://www.linkedin.com/in/npechl/)
+
+{{< ai orcid >}} &nbsp; **ORCID**
+
+[0000-0003-2502-612X](https://orcid.org/0000-0003-2502-612X)
+
+:::
