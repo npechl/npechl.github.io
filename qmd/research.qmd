@@ -1,0 +1,13 @@
+---
+title: "**Research**"
+---
+
+::: {style="font-weight:300; text-align:justify; margin-bottom: 1.5em;"}
+This page gathers my ongoing and past research projects, fellowships, and open source contributions.
+:::
+
+## Current Projects
+
+## Fellowships
+
+## Open Source

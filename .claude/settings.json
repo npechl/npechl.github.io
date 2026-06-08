@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/usr/local/bin/quarto --version)",
+      "Bash(~/.local/bin/quarto --version)",
+      "Bash(/opt/homebrew/bin/quarto --version)",
+      "Bash(find /Applications -name \"quarto\" -type f 2>/dev/null | head -3; ls ~/Applications/ 2>/dev/null)",
+      "Read(//Applications/**)",
+      "Read(//Users/pechlivanis/Applications/**)"
+    ]
+  }
+}

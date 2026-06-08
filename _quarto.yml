@@ -13,6 +13,7 @@ website:
       - text: "**Home**"
         href: index.qmd
       - qmd/about.qmd
+      - qmd/research.qmd
       - qmd/publications.qmd
       - qmd/contact.qmd
     right:

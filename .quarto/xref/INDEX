@@ -19,5 +19,8 @@
   },
   "qmd/contact.qmd": {
     "contact.html": "5bc014aa"
+  },
+  "qmd/research.qmd": {
+    "research.html": "b4346cb7"
   }
 }

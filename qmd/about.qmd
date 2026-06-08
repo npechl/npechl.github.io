@@ -1,38 +1,84 @@
 ---
-title: "**About**" 
-about: 
-    template: trestles 
-    image: ../images/nikopech_trim.jpeg 
-    links: 
-        # - icon: twitter 
-        #   text: twitter 
-        #   href: https://twitter.com/npechl
-        - icon: email 
-          text: "{{< fa envelope >}} Email" 
-          href: mailto:npechlv@gmail.com
-        - icon: github
-          text: GitHub
-          href: https://github.com/npechl
-        - icon: linkedin
-          text: LinkedIn 
-          href: https://www.linkedin.com/in/npechl/
-        - icon: orcid
-          text: "{{< ai orcid >}} ORCID"
-          href: https://orcid.org/0000-0003-2502-612X
-        - icon: file-earmark-pdf
-          text: CV
-          href: /files/Nikos_Pechlivanis_CV.pdf
-        # - icon: globe2 
-        #   text: Bluesky 
-        #   href: https://bsky.app/profile/npechl.bsky.social
+title: "**About**"
+about:
+    template: jolla
+    image: ../images/nikopech_trim.jpeg
 ---
 
-::: {style="font-weight:300;text-align:justify"}
-My name is Nikos, and I am currently an [ARISE2](https://www.embl.org/training/arise2/) Postdoctoral Fellow at the [European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/), located at the Wellcome Genome Campus in Cambridge. As a member of the [Protein Data Bank in Europe (PDBe)](https://www.ebi.ac.uk/pdbe/) team, my work focuses on democratizing access to complex biological data. I am developing a platform that leverages artificial intelligence to generate AI-ready, FAIR-compliant datasets. My goal is to transform how life scientists interact with complex biological data, shifting from manual database queries to intelligent, automated data curation.
-
-Before joining EMBL-EBI, I worked as a bioinformatics scientist at the [Institute of Applied Biosciences](https://www.inab.certh.gr/), part of the Centre for Research and Technology Hellas. I completed my Ph.D. in Bioinformatics under the supervision of [Dr. Fotis Psomopoulos](https://fpsom.github.io/about/) and hold a diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.
-
-Alongside my research, I have developed strong expertise in data visualization, creating clear and engaging representations that bring complex biological data to life. This allows me to communicate scientific insights effectively, making intricate concepts accessible to both specialist audiences and the broader public. Examples of my work are available through my [*#TidyTuesday*](https://github.com/npechl/TidyTuesday) contributions.
-
-You can download my full CV [here](../files/Nikos_Pechlivanis_CV.pdf).
+::: {.about-links-row}
+[{{< fa envelope >}} Email](mailto:npechlv@gmail.com){.about-btn}
+[{{< fa brands github >}} GitHub](https://github.com/npechl){.about-btn}
+[{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/npechl/){.about-btn}
+[{{< ai orcid >}} ORCID](https://orcid.org/0000-0003-2502-612X){.about-btn}
+[{{< fa file-pdf >}} CV](/files/Nikos_Pechlivanis_CV.pdf){.about-btn}
 :::
+
+::: {.about-bio}
+I am a bioinformatics researcher and software engineer working at the intersection of structural biology, artificial intelligence, and FAIR data. I hold a Ph.D. in Bioinformatics and a diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.
+:::
+
+:::: {.columns style="text-align: left;"}
+
+::: {.column width="50%"}
+
+#### Experience
+
+::: career-item
+::: career-role
+[ARISE2](https://www.embl.org/training/arise2/) Postdoctoral Fellow
+:::
+::: career-institution
+[Protein Data Bank in Europe (PDBe)](https://www.ebi.ac.uk/pdbe/) · [EMBL-EBI](https://www.ebi.ac.uk/)
+Cambridge, UK
+:::
+
+::: career-period
+March 2026 – Present
+:::
+
+:::
+
+::: career-item
+
+::: career-role
+Bioinformatics scientist
+:::
+
+::: career-institution
+[Institute of Applied Biosciences](https://www.inab.certh.gr/) · CERTH
+Thessaloniki, Greece 
+:::
+
+::: career-period
+January 2020 – February 2026
+:::
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+#### Education
+
+::: career-item
+::: career-role
+Ph.D. in Bioinformatics
+:::
+::: career-institution
+Aristotle University of Thessaloniki · supervised by [Dr. Fotis Psomopoulos](https://fpsom.github.io/about/)
+:::
+:::
+
+::: career-item
+::: career-role
+Diploma in Electrical and Computer Engineering
+:::
+::: career-institution
+Aristotle University of Thessaloniki
+:::
+:::
+
+:::
+
+::::
