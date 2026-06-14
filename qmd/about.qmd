@@ -17,11 +17,9 @@ about:
 I am a bioinformatics researcher and software engineer working at the intersection of structural biology, artificial intelligence, and FAIR data. I hold a Ph.D. in Bioinformatics and a diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.
 :::
 
-:::: {.columns style="text-align: left;"}
+:::: {style="text-align: left;"}
 
-::: {.column width="50%"}
-
-#### Experience
+#### Timeline
 
 ::: career-item
 ::: career-role
@@ -41,25 +39,19 @@ March 2026 – Present
 ::: career-item
 
 ::: career-role
-Bioinformatics scientist
+Bioinformatics scientist · Postdoctoral Associate
 :::
 
 ::: career-institution
-[Institute of Applied Biosciences](https://www.inab.certh.gr/) · CERTH
-Thessaloniki, Greece 
+[Institute of Applied Biosciences](https://www.inab.certh.gr/) · [CERTH](https://www.certh.gr/root.en.aspx)
+Thessaloniki, Greece
 :::
 
 ::: career-period
-January 2020 – February 2026
+April 2025 – February 2026
 :::
 
 :::
-
-:::
-
-::: {.column width="50%"}
-
-#### Education
 
 ::: career-item
 ::: career-role
@@ -68,17 +60,42 @@ Ph.D. in Bioinformatics
 ::: career-institution
 Aristotle University of Thessaloniki · supervised by [Dr. Fotis Psomopoulos](https://fpsom.github.io/about/)
 :::
+
+::: career-period
+July 2020 – March 2025
 :::
+:::
+
+::: career-item
+
+::: career-role
+Bioinformatics scientist · Graduate Research Assistant
+:::
+
+::: career-institution
+[Institute of Applied Biosciences](https://www.inab.certh.gr/) · [CERTH](https://www.certh.gr/root.en.aspx)
+Thessaloniki, Greece
+:::
+
+::: career-period
+January 2020 – March 2025
+:::
+
+:::
+
+
 
 ::: career-item
 ::: career-role
 Diploma in Electrical and Computer Engineering
 :::
 ::: career-institution
-Aristotle University of Thessaloniki
-:::
+Aristotle University of Thessaloniki· supervised by [Dr. Fotis Psomopoulos](https://fpsom.github.io/about/)
 :::
 
+::: career-period
+October 2013 – October 2019
+:::
 :::
 
 ::::
