@@ -6,7 +6,7 @@ pagetitle: "Nikos Pechlivanis"
 
 ARISE2 Fellow · Software Engineer · Bioinformatics [@]{style="font-weight:300;"}[EMBL-EBI](https://www.ebi.ac.uk/)
 
-:::: {.columns .hero-section}
+::: {.columns .hero-section}
 
 <!-- ::: {.column width="25%"}
 ![](images/nikopech_trim.jpeg){.hero-image}
@@ -26,7 +26,7 @@ My work focuses on building seamless infrastructure between complex structural b
 
 :::
 
-::::
+:::
 
 ---
 
