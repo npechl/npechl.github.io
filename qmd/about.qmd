@@ -17,83 +17,58 @@ about:
 I am a bioinformatics researcher and software engineer working at the intersection of structural biology, artificial intelligence, and FAIR data. I hold a Ph.D. in Bioinformatics and a diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki.
 :::
 
+---
+
 :::: {style="text-align: left;"}
 
-#### Timeline
+### Timeline
 
-::: career-item
-::: career-role
-[ARISE2](https://www.embl.org/training/arise2/) Postdoctoral Fellow
-:::
-::: career-institution
-[Protein Data Bank in Europe (PDBe)](https://www.ebi.ac.uk/pdbe/) · [EMBL-EBI](https://www.ebi.ac.uk/)
-Cambridge, UK
-:::
+::: pub-card
+[**ARISE2**](https://www.embl.org/training/arise2/) [Postdoctoral Fellow]{style="font-weight:600;"}
 
-::: career-period
+::: pub-meta
+[Protein Data Bank in Europe (PDBe)](https://www.ebi.ac.uk/pdbe/) · [EMBL-EBI](https://www.ebi.ac.uk/), Cambridge, UK
+
 March 2026 – Present
 :::
-
 :::
 
-::: career-item
+::: pub-card
+[Bioinformatics scientist · Postdoctoral Associate]{style="font-weight:600;"}
 
-::: career-role
-Bioinformatics scientist · Postdoctoral Associate
-:::
+::: pub-meta
+[Institute of Applied Biosciences](https://www.inab.certh.gr/) · [CERTH](https://www.certh.gr/root.en.aspx), Thessaloniki, Greece
 
-::: career-institution
-[Institute of Applied Biosciences](https://www.inab.certh.gr/) · [CERTH](https://www.certh.gr/root.en.aspx)
-Thessaloniki, Greece
-:::
-
-::: career-period
 April 2025 – February 2026
 :::
-
 :::
 
-::: career-item
-::: career-role
-Ph.D. in Bioinformatics
-:::
-::: career-institution
+::: pub-card
+[Ph.D. in Bioinformatics]{style="font-weight:600;"}
+
+::: pub-meta
 Aristotle University of Thessaloniki · supervised by [Dr. Fotis Psomopoulos](https://fpsom.github.io/about/)
-:::
 
-::: career-period
 July 2020 – March 2025
 :::
 :::
 
-::: career-item
+::: pub-card
+[Bioinformatics scientist · Graduate Research Assistant]{style="font-weight:600;"}
 
-::: career-role
-Bioinformatics scientist · Graduate Research Assistant
-:::
+::: pub-meta
+[Institute of Applied Biosciences](https://www.inab.certh.gr/) · [CERTH](https://www.certh.gr/root.en.aspx), Thessaloniki, Greece
 
-::: career-institution
-[Institute of Applied Biosciences](https://www.inab.certh.gr/) · [CERTH](https://www.certh.gr/root.en.aspx)
-Thessaloniki, Greece
-:::
-
-::: career-period
 January 2020 – March 2025
 :::
-
 :::
 
+::: pub-card
+[Diploma in Electrical and Computer Engineering]{style="font-weight:600;"}
 
-
-::: career-item
-::: career-role
-Diploma in Electrical and Computer Engineering
-:::
-::: career-institution
+::: pub-meta
 Aristotle University of Thessaloniki· supervised by [Dr. Fotis Psomopoulos](https://fpsom.github.io/about/)
-:::
 
-::: career-period
 October 2013 – October 2019
 :::
 :::
