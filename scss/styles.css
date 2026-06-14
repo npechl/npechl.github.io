@@ -48,7 +48,7 @@
 }
 
 .quarto-light .about-image {
-    border: 3px solid #e54f46 !important;
+    border: 3px solid #e91d63 !important;
     box-shadow: 0 0 0 5px rgba(153, 31, 125, 0.10);
 }
 
@@ -146,4 +146,136 @@ main {
     font-size: 0.82em;
     opacity: 0.65;
     margin-top: 0.4em;
+}
+
+/* Custom about layout */
+.about-custom {
+    align-items: flex-start;
+    padding-top: 1em;
+}
+
+.about-custom .about-image {
+    width: 100%;
+    max-width: 200px;
+    display: block;
+    margin: 0 auto 1em;
+}
+
+.about-links-col {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35em;
+    margin-bottom: 1.25em;
+}
+
+.about-links-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4em;
+    margin-bottom: 0.75em;
+}
+
+.about-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    padding: 0.3em 0.85em;
+    border-radius: 2em;
+    font-size: 0.82em;
+    font-weight: 400;
+    text-decoration: none !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    width: fit-content;
+}
+
+.quarto-light .about-btn {
+    border: 1px solid rgba(153, 31, 125, 0.35);
+    color: #991f7d !important;
+    background: transparent;
+}
+
+.quarto-dark .about-btn {
+    border: 1px solid rgba(38, 152, 186, 0.4);
+    color: #2698ba !important;
+    background: transparent;
+}
+
+.about-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+}
+
+.about-bio {
+    font-weight: 300;
+    text-align: justify;
+    font-size: 0.95em;
+    line-height: 1.7;
+    margin-top: 0.25em;
+    margin-bottom: 0.75em;
+}
+
+/* Career timeline */
+.career-item {
+    padding: 0.85em 1.25em;
+    margin-bottom: 0.85em;
+    border-left: 3px solid rgba(153, 31, 125, 0.45);
+    border-radius: 0 0.5em 0.5em 0;
+    font-weight: 300;
+    transition: border-color 0.2s ease;
+}
+
+.quarto-dark .career-item {
+    border-left-color: rgba(38, 152, 186, 0.5);
+}
+
+.career-item:hover {
+    border-left-color: #991f7d;
+}
+
+.quarto-dark .career-item:hover {
+    border-left-color: #2698ba;
+}
+
+.career-role {
+    font-weight: 500;
+    margin-bottom: 0.2em;
+}
+
+.career-institution {
+    font-size: 0.9em;
+    opacity: 0.75;
+}
+
+.career-period {
+    font-size: 0.8em;
+    opacity: 0.5;
+    margin-top: 0.2em;
+}
+
+/* Project cards (research page) */
+.project-card {
+    border-radius: 0.6em;
+    padding: 1em 1.25em;
+    margin-bottom: 1em;
+    font-weight: 300;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.quarto-light .project-card {
+    background: rgba(255, 255, 255, 0.65);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.quarto-dark .project-card {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.20);
+}
+
+.project-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
 }
